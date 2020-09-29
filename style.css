@@ -1,0 +1,50 @@
+.header h1 {
+  font-family: Helvetica, sans-serif;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url(pattern.jpeg);
+  margin-top: 0px;
+  margin-bottom: 0px;
+ }
+
+.header p {
+  font-family: Helvetica, sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h2 {
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color:  khaki;
+}
+
+.sea {
+    background-color: mediumspringgreen;
+}
+.coral {
+    background-color:lightcoral;
+}
+.blue {
+    background-color: skyblue;
+}
+.price {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+}
+
+footer {
+    background-image: url(pattern.jpeg);
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    color:  khaki;
+    text-align: center;
+}
